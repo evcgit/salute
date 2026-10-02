@@ -1,0 +1,31 @@
+[
+  {
+    "alarm_id": "AL-1001",
+    "asset_id": "A-204",
+    "severity": "critical",
+    "message": "High discharge air temperature",
+    "timestamp": "2026-07-10T03:12:00Z"
+  },
+  {
+    "alarm_id": "AL-1002",
+    "asset_id": null,
+    "equipment_label": "CRAH-450X R2 unit near rack 12",
+    "severity": "warning",
+    "message": "Filter differential pressure high",
+    "timestamp": "2026-07-10T04:02:00Z"
+  },
+  {
+    "alarm_id": "AL-1003",
+    "asset_id": "A-205",
+    "severity": "info",
+    "message": "Battery self-test completed",
+    "timestamp": "2026-07-10T05:00:00Z"
+  },
+  {
+    "alarm_id": "AL-1004",
+    "asset_id": "A-206",
+    "severity": "critical",
+    "message": "Input voltage out of range",
+    "timestamp": "2026-07-10T05:44:00Z"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "asset_id": "A-204",
+    "site": "DC-East-3",
+    "model_number": "CRAH-450X-R2",
+    "install_date": "2022-03-14"
+  },
+  {
+    "asset_id": "A-205",
+    "site": "DC-East-3",
+    "model_number": "PDU-220A",
+    "install_date": "2021-11-02"
+  },
+  {
+    "asset_id": "A-206",
+    "site": "DC-East-3",
+    "model_number": "UPS-800T-v3",
+    "install_date": "2020-07-19"
+  }
+]

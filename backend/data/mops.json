@@ -1,0 +1,20 @@
+[
+  {
+    "mop_id": "MOP-014",
+    "title": "CRAH High Discharge Temp Response",
+    "applicable_model": "CRAH-450X",
+    "summary": "Steps to diagnose and clear high discharge air temperature alarms."
+  },
+  {
+    "mop_id": "MOP-022",
+    "title": "PDU Routine Inspection",
+    "applicable_model": "PDU-220",
+    "summary": "Monthly inspection checklist for PDU-220 series distribution units."
+  },
+  {
+    "mop_id": "MOP-031",
+    "title": "UPS Battery and Voltage Fault Response",
+    "applicable_model": "UPS-800",
+    "summary": "Response steps for UPS-800 series battery self-test failures and voltage faults."
+  }
+]
